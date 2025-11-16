@@ -5,7 +5,7 @@ Built as part of my daily Python learning journey.
 
 ---
 
-##  Features
+## Features
 
 This program:
 
@@ -44,3 +44,53 @@ In your terminal or IDE:
 
 ```bash
 python3 number_analysis.py
+```
+
+You will be prompted to:
+
+1. Enter a list of numbers  
+2. Enter a threshold  
+3. Enter a divisor  
+
+The program prints a formatted analysis report.
+
+---
+
+## Example Output
+
+```
+=== Number Analysis Report ===
+Even numbers: [2, 6, 10, 12]
+Odd numbers: [3, 5]
+Numbers above threshold (5): 3
+Sum of numbers divisible by 2: 30
+```
+
+---
+
+## File Structure
+
+```
+    number_analysis.py
+    README.md
+```
+
+---
+
+##  About This Project
+
+This script was created during **Day 10** of my personal Python learning journey.  
+It demonstrates my transition from basic loops into real Python developer practices including:
+
+- comprehension pipelines  
+- multi-function design  
+- structured reporting  
+
+I use this repo to document my progress and reinforce clean coding habits.
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** (https://www.linkedin.com/in/justindestry/) 
+- More projects coming soon!
